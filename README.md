@@ -1,3 +1,2 @@
-# testrepo
-This is practice
-adding new content
+# Machine Learning practice assignments
+
